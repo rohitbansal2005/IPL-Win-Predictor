@@ -1,3 +1,4 @@
+![Screenshot_26-3-2025_233742_localhost](https://github.com/user-attachments/assets/7643e557-fa6f-4425-b2f4-8305e818b4b2)
 # IPL Win Predictor
 
 A Streamlit-based web application that predicts the winning probability of IPL (Indian Premier League) cricket matches in real-time based on current match situations.
